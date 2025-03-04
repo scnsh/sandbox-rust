@@ -1,0 +1,17 @@
+[package]
+name = "grrs"
+version = "0.1.0"
+edition = "2021"
+description = "A simple grep-like tool"
+
+[dependencies]
+anyhow = "1.0.96"
+clap = { version = "4.5.31", features = ["derive"] }
+env_logger = "0.11.6"
+indicatif = "0.17.11"
+log = "0.4.26"
+
+[dev-dependencies]
+assert_cmd = "2.0.16"
+assert_fs = "1.1.2"
+predicates = "3.1.3"
