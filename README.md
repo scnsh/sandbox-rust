@@ -8,13 +8,13 @@
 このサンドボックスには、以下のプロジェクトが含まれています。
 
 *   `branches`: Rustの基本的な分岐（if/else）のサンプルプロジェクトです。
-*   `chatgpt_demo`: ChatGPT API連携のデモプロジェクトです。(推定)
+*   `chatgpt_demo`: ChatGPT API連携のデモプロジェクトです。
 *   `functions`: Rustの基本的な関数のサンプルプロジェクトです。
 *   `grrs`: grepのようなコマンドラインツールをRustで実装するプロジェクトです。
 *   `guessing_game`: 数当てゲームのプロジェクトです。Rustの基本的な入出力、乱数、ループ処理の練習になります。
 *   `helloworld`: Rustの伝統的な "Hello, world!" プロジェクトです。
 *   `loops`: Rustのループ処理（loop, while, for）のサンプルプロジェクトです。
-*   `serde_pg`: SerdeライブラリとPostgreSQL連携の実験的なプロジェクトです。
+*   `serde_pg`: SerdeライブラリとPostgreSQL連携の実験プロジェクトかもしれません。
 *   `variables`: Rustの変数宣言やスコープ、シャドーイングなどの基本を学ぶためのプロジェクトです。
 *   `wasm-game-of-life`: RustとWebAssemblyを使ったライフゲームのプロジェクトです。詳細はこのプロジェクト内の`README.md`を参照してください。
 
